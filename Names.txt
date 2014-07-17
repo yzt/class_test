@@ -3,13 +3,13 @@ No.|       Name        |      Email
  0 | Yaser Zhian       | yaserzt@gmail.com
  1 | mahdi fadaeddini  | mahdifada.eddini@gmail.com
  2 | Meysam Soltany    | meysamsoltany@gmail.com
- 3 |                   | 
+ 3 | safa farakhi      | safa.farakhi@gmail.com
  4 |   farzan saffar   | godofgod.fs3@gmail.com 
  5 |    mehdi noroozi  |  ouchaar@gmail.com
  6 | Niloofar Navaei   | nil.xiii@gmail.com
  7 | Behnoud Taheri    | behnoudt@gmail.com
  8 | Amin Nakhaie      | amin.nakhaie@gmail.com
- 9 |                   | 
+ 9 |  rezasoleymani    | reza.so1994@yahoo.com
 10 | Mahdi Sadri       | sadri.2020@yahoo.com
 11 |Amir Zarrin        | azazaz@gmail.com
 12 |Mahdi Farasat      | Mahdi.Farasat@yahoo.com
