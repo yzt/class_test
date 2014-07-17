@@ -2,7 +2,7 @@ No.|       Name        |      Email
 ---+-------------------+--------------------
  0 | Yaser Zhian       | yaserzt@gmail.com
  1 |                   | 
- 2 |                   | 
+ 2 | Meysam Soltany    | meysamsoltany@gmail.com
  3 |                   | 
  4 |                   | 
  5 |                   | 
