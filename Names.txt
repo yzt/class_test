@@ -9,7 +9,7 @@ No.|       Name        |      Email
  6 | Niloofar Navaei   | nil.xiii@gmail.com
  7 |                   | 
  8 | Amin Nakhaie      | amin.nakhaie@gmail.com
- 9 |  rezasoleymani    | reza.so1994@yahoo.com
+ 9 |  rezasoleymani    |  
 10 | Mahdi Sadri       |                
 11 |Amir Zarrin        | 
 12 |Mahdi Farasat      | 
