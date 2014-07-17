@@ -2,7 +2,7 @@ No.|       Name        |      Email
 ---+-------------------+--------------------
  0 | Yaser Zhian       | yaserzt@gmail.com
  1 |                   | 
- 2 |                   | 
+ 2 | Meysam Soltany    | meysamsoltany@gmail.com
  3 |                   | 
  4 |   farzan saffar   | godofgod.fs3@gmail.com 
  5 |    mehdi noroozi  |  ouchaar@gmail.com
@@ -11,7 +11,7 @@ No.|       Name        |      Email
  8 | Amin Nakhaie      | amin.nakhaie@gmail.com
  9 |                   | 
 10 | Mahdi Sadri       | sadri.2020@yahoo.com
-11 |                   | 
+11 |Amir Zarrin        | azazaz@gmail.com
 12 |Mahdi Farasat      | Mahdi.Farasat@yahoo.com
 13 |                   | 
 14 |                   | 
