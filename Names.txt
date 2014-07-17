@@ -10,7 +10,7 @@ No.|       Name        |      Email
  7 |                   | 
  8 | Amin Nakhaie      | amin.nakhaie@gmail.com
  9 |  rezasoleymani    | reza.so1994@yahoo.com
-10 | Mahdi Sadri       | sadri.2020@yahoo.com
+10 | Mahdi Sadri       |                
 11 |Amir Zarrin        | 
 12 |Mahdi Farasat      | 
 13 |                   | 
