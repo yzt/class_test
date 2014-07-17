@@ -8,7 +8,7 @@ No.|       Name        |      Email
  5 |                   | 
  6 | Niloofar Navaei   | nil.xiii@gmail.com
  7 |                   | 
- 8 |                   | 
+ 8 | Amin Nakhaie      | amin.nakhaie@gmail.com
  9 |                   | 
 10 | Mahdi Sadri       | sadri.2020@yahoo.com
 11 |                   | 
